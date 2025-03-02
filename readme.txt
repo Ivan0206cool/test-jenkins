@@ -1,5 +1,5 @@
 流程：
-使用docker安裝jenkins
+使用docker安裝jenkins（linux 也可以安裝 jenkins)
 設定jenkins
 以ngrok製作對外的url
 github上創建一個測試用repository
